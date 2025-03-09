@@ -1,2 +1,8 @@
 # Pig-Game
-Developed a Pig Game using JavaScript, HTML, and CSS, where two players roll dice to accumulate points. The game includes features like turn switching, score tracking, a “New Game” reset, and winner declaration. Utilized DOM manipulation and event handling to create an interactive experience.
+Created an interactive Pig Game where two players roll dice to score 10 points. 
+Key features include:
+Dice Rolling: Simulates dice rolls using a random number generator and displays the result with dice images.
+Player Interaction: Players take turns rolling and accumulating points. If a player rolls a 1, their turn ends.
+Score Tracking: Displays the current and total scores for both players.
+Game Reset: A "New Game" button resets the game state.
+Winner Declaration: Declares a winner when a player reaches 10 points.
